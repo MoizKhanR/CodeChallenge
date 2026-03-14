@@ -1,0 +1,3 @@
+- Form1.cs contains my code, the solution to the code challenge
+- Executable.zip is a zipped folder that has my GUI application in it, you can run it to see my solution in action
+- Report_Safety_Analyzer.zip is the entire project & can be opened, built, run in Visual Studio
